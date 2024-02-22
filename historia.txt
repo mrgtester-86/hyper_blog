@@ -1,0 +1,8 @@
+Esta es la historia de gerson mejia
+
+gerson tiene 32 años y nacio en colombia
+
+hoy hablaremos de su historia 
+
+directorio bash 👇
+~/Desktop/CLASES PLATZI/ESCUELA DE PROGRAMACION/0.0 PREWORK Curso de Introducción a la Terminal y Línea de Comandos/Curso profesional de GITHUB/proyecto1
