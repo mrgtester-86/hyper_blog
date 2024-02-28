@@ -1,8 +1,5 @@
-Esta es la historia de gerson mejia
+Esta es la historia de Freddy Vega
 
-gerson tiene 32 años y nacio en colombia
+Freddy Vega tiene 32 años y nació en Colombia
 
-hoy hablaremos de su historia 
-
-directorio bash 👇
-~/Desktop/CLASES PLATZI/ESCUELA DE PROGRAMACION/0.0 PREWORK Curso de Introducción a la Terminal y Línea de Comandos/Curso profesional de GITHUB/proyecto1
+Mañana nos enfocaremos en su vida laboral
